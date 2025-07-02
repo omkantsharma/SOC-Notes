@@ -1,0 +1,35 @@
+https://yt1s.com.co/
+
+
+
+
+
+
+===================================
+------------------
+articles
+https://www.getastra.com/blog/security-audit/best-penetration-testing-tools/
+-----------------
+===================================
+wazuh
+download webpage link -- 
+https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html
+===================================
+-----------------
+https://www.youtube.com/watch?v=OSQKYZZHkXo
+
+Cyber incident response approach
+What Does Triage Mean in Cybersecurity? In cybersecurity, 
+triage is a cyber incident response approach to identifying, 
+prioritizing, and resolving cybersecurity attacks, threats, and damages within a network.
+-----------------
+====================================
+The image shows a user interface element from a search or data analysis tool, likely a web application. The element is a dropdown or pop-up menu providing options related to the "stats" command within the search query "index="_internal" | stats". The available options include:
+stats count: Shows the total count of events.
+stats count by action, host: Shows the count of events grouped by action and host.
+stats count by host: Shows the count of events grouped by host.
+stats count by src_ip, dest_ip, dest_port: Shows the count of events grouped by source IP, destination IP, and destination port.
+stats first(resident_on) as resident_on: Shows the first occurrence of the "resident_on" field, aliased as "resident_on".
+stats: Provides general statistics, optionally grouped by a field. An example is provided: "sourcetype=access_combined | top limit=100 referer_domain | stats sum(count)", which calculates the sum of the count field for the top 100 referrer domains from the "access_combined" source type.
+Additionally, there are links to documentation, tutorials, and a data summary, suggesting these resources are availa
+======================================
